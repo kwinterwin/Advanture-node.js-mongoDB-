@@ -1,0 +1,22 @@
+{
+  "country" : [
+    {"name" : "Франция",
+      "capital" : "Париж",
+      "code" : 33,
+      "domen" : ".fr",
+      "city" : "Марсель"
+    },
+    {"name" : "Япония",
+      "capital" : "Токио",
+      "code" : 81,
+      "domen" : ".jp",
+      "city" : "Иокогама"
+    },
+    {"name" : "Норвегия",
+      "capital" : "Осло",
+      "code" : 47,
+      "domen" : ".no",
+      "city" : "Берген"
+    }
+  ]
+}
